@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @uliuphoff
 - 👀 I’m interested in Python, Pandas, Data Analytics, ML
 - 🌱 I’m currently learning to create interesting tutorials
-- 💞️ In the future I’m looking to collaborate on education in data analytics
-- 📫 How to reach me ...
+- 💞️ In the future I’m looking to collaborate on education in data science/analytics
+- 📫 How to reach me: Ulrich.Uphoff@gmail.com
 
 <!---
 uliuphoff/uliuphoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
